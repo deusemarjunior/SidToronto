@@ -24,7 +24,7 @@ public class ClassSortArray {
 	// should print ['432', '123.4', '001', 'Alpha', 'Beta', 'Gamma', 'Pit', 'Peter', 'Palindrome']
 
 	
-	/*
+	*/
 	
 	private static List<String> sortIt(String... strings) {
 		//TODO correct
